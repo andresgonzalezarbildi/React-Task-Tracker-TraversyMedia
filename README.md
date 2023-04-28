@@ -1,12 +1,29 @@
-# Task Tracker following TraversyMedia tutorial
-This is a React focused app, made by following a traversyMedia class
+# React Crash Course 2021 (Task Tracker App)
 
-## How It's Made:
+This is the project from the [YouTube crash course](https://www.youtube.com/watch?v=w7ejDZ8SWv8). It includes the react ui as well as JSON-server for our mock backend
 
-**Tech used:** HTML, CSS, JavaScript, React, Node
+## Usage
 
-Following this classes, we made a Task tracker app, fully functional, made with 100% focus on react 
+### Install dependencies
 
-## Lessons Learned:
+```
+npm install
+```
 
-Learned a lot about react, about fullstack apps, how do node frameworks and librarys work.
+### Run React dev server (http://localhost:3000)
+
+```
+npm start
+```
+
+### Run the JSON server (http://localhost:5000)
+
+```
+npm run server
+```
+
+### To build for production
+
+```
+npm run build
+```
